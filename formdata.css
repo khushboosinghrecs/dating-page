@@ -1,0 +1,30 @@
+
+ html, body {
+    font-family: sans-serif;
+    height: 100%;
+    margin: 0;
+    color: black;
+  }
+  .window {
+    display: flex;
+    height: 100%;
+  }
+  .logout{
+    width: 100px;
+    height: 37px;
+    top: 25px;
+    position: absolute;
+    right: 25px;
+  }
+.page {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+    font-weight: 600;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1531747056595-07f6cbbe10ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvdXBsZXxlbnwwfHwwfHw%3D&w=1000&q=80");
+  }
