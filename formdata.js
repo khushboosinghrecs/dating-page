@@ -8,6 +8,6 @@ let showName= document.getElementById("username");
         };
     }
      
-function logOut(){
-  location.replace("/home/khushboo/Desktop/dating app/index.html");
+function logOut(){    
+  location.replace("./index.html");
     }
