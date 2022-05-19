@@ -41,8 +41,8 @@ pwShowHide.forEach((eyeIcon) => {
       });
     });
   });
-  function addNavigation() {
-    location.replace("/home/khushboo/Desktop/dating app/formdata.html");
+  function addNavigation() {     
+    location.replace("./formdata.html");
   }
   signUp.addEventListener("click", () => {
     container.classList.add("active");
